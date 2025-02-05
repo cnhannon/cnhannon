@@ -13,8 +13,8 @@
 I'm currently dedicated to enriching my professional portfolio through diverse projects, aiming to display my capabilities to potential employers. 
 
 ### 📚 Currently Learning:
-- **Introduction to Statistical Learning with Python**
-- **Prompt Engineering**
+- **An Introduction to Statistical Learning with Python**
+- **Prompt Engineering for Generative AI**
 
 ### 🎯 My Goals:
 - **Simplify data comprehension** for all audiences
@@ -23,26 +23,24 @@ I'm currently dedicated to enriching my professional portfolio through diverse p
 ### 🎲 Fun Fact:
 - I once served as a Queen's Guardsman. 💂‍♂️
 
-Currently, I'm diving into **"A Hitchhiker's Guide to the Galaxy"**, which keeps my imagination and analytical skills sharp. 
+In my free time I enjoy hiking, lifting heavy things, reading, solving puzzles, and spending time with my dog.
 
-Feel free to delve into my projects here as I continue on my journey of learning, building, and sharing!
+Feel free to browse my projects, or get in touch.
 
 
 <h2 align="left">🌐 Social:</h2>
 
 <div align="center">
-  <a href="https://x.com/cnhannon" target="_blank">
-    <img src="https://img.shields.io/badge/cnhannon-black?style=for-the-badge&logo=x&logoColor=white" alt="X">
-  </a>
   <a href="mailto:chris.n.hannon@gmail.com">
     <img src="https://img.shields.io/badge/chris.n.hannon%40gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me">
   </a>
-    <a href="https://lewagon-alumni.slack.com/team/U07FURY7ZFH">
+  <a href="https://x.com/cnhannon" target="_blank">
+    <img src="https://img.shields.io/badge/cnhannon-black?style=for-the-badge&logo=x&logoColor=white" alt="X">
+  </a>
+  <a href="https://lewagon-alumni.slack.com/team/U07FURY7ZFH">
     <img src="https://img.shields.io/badge/Chris%20Hannon-%234A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack">
   </a>
 </div>
-
-
 
 
 <h2 align="left">💻 Tech Stack:</h2>
