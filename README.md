@@ -1,4 +1,5 @@
-# 👋 Hi, I’m @cnhannon
+![Header](github-header-image.png)
+# 👋 Hello, I’m @cnhannon
 ## 💫 About Me:
 I'm currently focused on enhancing my professional portfolio with various projects to showcase my skills to potential employers. Alongside this, I'm deepening my knowledge in data science through the Introduction to Statistical Analysis with Python course by Stanford University Online.
 <br><br>
