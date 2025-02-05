@@ -36,8 +36,10 @@ Feel free to explore my work here as I continue to learn, build, and share!<br><
   - Introduction to Statistical Learning with Python by Stanford University Online<br>
   - Prompt Engineering<br>
 🎯 Goals:<br>
-  - Make data easy to understand<br>
-  - Progress to Data Scientist, or Data Engineer<br>
+<ul>
+  <li>Make data easy to understand</li>
+  <li>Progress to Data Scientist, or Data Engineer</li>
+</ul>
 🎲 Fun fact: Once upon a time, I was a Queen's Guardsman. 💂‍♂️</p>
 
 ###
