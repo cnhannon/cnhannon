@@ -23,6 +23,7 @@ Feel free to explore my work here as I continue to learn, build, and share!<br><
 
 ![Linux](https://img.shields.io/badge/LINUX-%23F5BB3B?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/UBUNTU-%23185ABC?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=%23E75420&color=%23262626)
+![Git](https://img.shields.io/badge/GIT-%23433A33?style=for-the-badge&logo=git)
 ![SQL](https://img.shields.io/badge/SQL-%23F05522?style=for-the-badge)
 ![Anaconda](https://img.shields.io/badge/ANACONDA-%230A444D?style=for-the-badge&logo=anaconda&logoColor=%2343B049)
 ![Jupyter](https://img.shields.io/badge/JUPYTER-%23969698?style=for-the-badge&logo=jupyter&logoColor=%23E46E2E)
