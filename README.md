@@ -20,12 +20,9 @@ Feel free to explore my work here as I continue to learn, build, and share!<br><
 <a href="https://x.com/cnhannon" target="_blank">
   <img src="https://img.shields.io/badge/cnhannon-black?style=for-the-badge&logo=x&logoColor=white" alt="X">
 </a>
-
 <a href="mailto:chris.n.hannon@gmail.com">
   <img src="https://img.shields.io/static/v1?label=Email&message=Contact&color=blue" alt="Email Me">
 </a>
-
-[![email](https://img.shields.io/badge/chris.n.hannon%40gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chris.n.hannon@gmail.com) 
 
 # 💻 Tech Stack:
 
