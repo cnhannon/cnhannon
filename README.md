@@ -2,11 +2,7 @@
   <img src="github-header-image.png" alt="Hello, world!">
 </div>
 
-###
-
-<p align="left">My name is Chris and I am a Data Analyst, from the UK.</p>
-
-###
+---
 
 ## ✨ About Me:
 
