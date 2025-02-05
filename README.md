@@ -68,12 +68,10 @@ Feel free to browse my projects, or get in touch.
 
 <h2 align="left">📊 GitHub Stats:</h2>
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cnhannon&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 </div>
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=cnhannon&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
