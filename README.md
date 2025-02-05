@@ -33,19 +33,18 @@ Feel free to explore my work here as I continue to learn, build, and share!<br><
 ###
 
 <p align="left">
-  <h4>📚 I'm currently learning:</h4>
-  <br>
+  <h3>📚 I'm currently learning:</h3>
   <ul>
     <li>Introduction to Statistical Learning with Python</li>
     <li>Prompt Engineering</li>
   </ul>
   <br>
-  <h4>🎯 Goals:</h4>
-  <br>
+  <h3>🎯 Goals:</h3>
   <ul>
     <li>Make data easy to understand</li>
     <li>Progress to Data Scientist, or Data Engineer</li>
   </ul>
+  <br>
   🎲 Fun fact: Once upon a time, I was a Queen's Guardsman. 💂‍♂️
 </p>
 
