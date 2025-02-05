@@ -26,10 +26,12 @@ Feel free to explore my work here as I continue to learn, build, and share!<br><
   <a href="mailto:chris.n.hannon@gmail.com">
     <img src="https://img.shields.io/badge/chris.n.hannon%40gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me">
   </a>
-    <a href="mailto:chris.n.hannon@gmail.com">
+    <a href="https://lewagon-alumni.slack.com/team/U07FURY7ZFH">
     <img src="https://img.shields.io/badge/Chris%20Hannon-%234A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack">
   </a>
 </div>
+
+
 
 
 <h2 align="left">💻 Tech Stack:</h2>
