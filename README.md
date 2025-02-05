@@ -21,9 +21,17 @@ Feel free to explore my work here as I continue to learn, build, and share!<br><
 
 # 💻 Tech Stack:
 
+![Ubuntu](https://img.shields.io/badge/UBUNTU-%23185ABC?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=%23E75420&color=%23262626)
 ![Anaconda](https://img.shields.io/badge/ANACONDA-%230A444D?style=for-the-badge&logo=anaconda&logoColor=%2343B049)
 ![Jupyter](https://img.shields.io/badge/JUPYTER-%23969698?style=for-the-badge&logo=jupyter&logoColor=%23E46E2E)
 ![Python](https://img.shields.io/badge/PYTHON-%233776AB?style=for-the-badge&logo=python&logoColor=yellow)
+![Pandas](https://img.shields.io/badge/PANDAS-%23130654?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NUMPY-%23130654?style=for-the-badge&logo=numpy&logoColor=%234DABCF&color=%23222832)
+![SciPy](https://img.shields.io/badge/SCIPY-%23013243?style=for-the-badge&logo=scipy&logoColor=%23003786&labelColor=white)
+![Plotly](https://img.shields.io/badge/PLOTLY-%23242A44?style=for-the-badge&logo=plotly&labelColor=%23242A44)
+
+
+
 ![Google Sheets](https://img.shields.io/badge/GOOGLE%20SHEETS-white?style=for-the-badge&logo=googlesheets&logoColor=%2339A75A)
 ![Google BigQuery](https://img.shields.io/badge/GOOGLE%20BIGQUERY-%23185ABC?style=for-the-badge&logo=googlebigquery&logoColor=white)
 
