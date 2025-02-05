@@ -32,15 +32,22 @@ Feel free to explore my work here as I continue to learn, build, and share!<br><
 
 ###
 
-<p align="left">📚 I'm currently learning:<br>
-  - Introduction to Statistical Learning with Python by Stanford University Online<br>
-  - Prompt Engineering<br>
-🎯 Goals:<br>
-<ul>
-  <li>Make data easy to understand</li>
-  <li>Progress to Data Scientist, or Data Engineer</li>
-</ul>
-🎲 Fun fact: Once upon a time, I was a Queen's Guardsman. 💂‍♂️</p>
+<p align="left">
+  <h4>📚 I'm currently learning:</h4>
+  <br>
+  <ul>
+    <li>Introduction to Statistical Learning with Python</li>
+    <li>Prompt Engineering</li>
+  </ul>
+  <br>
+  <h4>🎯 Goals:</h4>
+  <br>
+  <ul>
+    <li>Make data easy to understand</li>
+    <li>Progress to Data Scientist, or Data Engineer</li>
+  </ul>
+  🎲 Fun fact: Once upon a time, I was a Queen's Guardsman. 💂‍♂️
+</p>
 
 ###
 
