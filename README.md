@@ -21,7 +21,7 @@ Feel free to explore my work here as I continue to learn, build, and share!<br><
 
 # 💻 Tech Stack:
 
-![Linux](https://img.shields.io/badge/LINUX-yellow?logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/LINUX-%23F5BB3B?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/UBUNTU-%23185ABC?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=%23E75420&color=%23262626)
 ![SQL](https://img.shields.io/badge/SQL-%23F05522?style=for-the-badge)
 ![Anaconda](https://img.shields.io/badge/ANACONDA-%230A444D?style=for-the-badge&logo=anaconda&logoColor=%2343B049)
@@ -30,7 +30,8 @@ Feel free to explore my work here as I continue to learn, build, and share!<br><
 ![Pandas](https://img.shields.io/badge/PANDAS-%23130654?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NUMPY-%23130654?style=for-the-badge&logo=numpy&logoColor=%234DABCF&color=%23222832)
 ![SciPy](https://img.shields.io/badge/SCIPY-%23013243?style=for-the-badge&logo=scipy&logoColor=%23003786&labelColor=white)
-![Scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-%23105876?logo=scikitlearn&logoColor=%23F89939&labelColor=%23197399)
+![Scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-%23F5BB3B?style=for-the-badge&logo=scikitlearn&labelColor=%23187399&color=%2314181E)
+
 ![Plotly](https://img.shields.io/badge/PLOTLY-%23242A44?style=for-the-badge&logo=plotly&labelColor=%23242A44)
 ![SymPy](https://img.shields.io/badge/SYMPY-%233B5526?style=for-the-badge&logo=sympy&logoColor=%2381B953)
 
