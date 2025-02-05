@@ -21,6 +21,7 @@ Feel free to explore my work here as I continue to learn, build, and share!<br><
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/PYTHON-%233776AB?style=for-the-badge&logo=python&logoColor=yellow)
+![Anaconda](https://img.shields.io/badge/ANACONDA-%230A444D?style=for-the-badge&logo=anaconda&logoColor=%2343B049)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 # 📊 GitHub Stats:
