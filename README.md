@@ -20,7 +20,7 @@ Feel free to explore my work here as I continue to learn, build, and share!<br><
 <a href="https://x.com/cnhannon" target="_blank">
   <img src="https://img.shields.io/badge/cnhannon-black?style=for-the-badge&logo=x&logoColor=white" alt="X">
 </a>
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chris.n.hannon@gmail.com) 
+[![email](https://img.shields.io/badge/chris.n.hannon@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:chris.n.hannon@gmail.com) 
 
 # 💻 Tech Stack:
 
