@@ -45,10 +45,11 @@ Feel free to explore my work here as I continue to learn, build, and share!<br><
     <li>Progress to Data Scientist, or Data Engineer</li>
   </ul>
   <br>
-  🎲 Fun fact: Once upon a time, I was a Queen's Guardsman. 💂‍♂️
+  <h3>🎲 Fun fact:</h3>
+  <ul>
+    <li>Once upon a time, I was a Queen's Guardsman. 💂‍♂️</li>
+  </ul>
 </p>
-
-###
 
 <h2 align="left">💻 Tech Stack:</h2>
 
