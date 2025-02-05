@@ -16,7 +16,10 @@ I'm reading "A Hitchhiker's Guide to the Galaxy", which keeps my imagination as 
 Feel free to explore my work here as I continue to learn, build, and share!<br><br>
 
 
-## 🌐 Socials:
+# 🌐 Social:
+![X](https://img.shields.io/badge/cnhannon-white?style=social&logo=x&link=https%3A%2F%2Fx.com%2Fcnhannon)
+
+
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/cnhannon) [![chris.n.hannon@gmail.com](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chris.n.hannon@gmail.com) 
 
 # 💻 Tech Stack:
