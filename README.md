@@ -6,20 +6,18 @@
 
 ## ✨ About Me:
 
-I'm currently dedicated to enriching my professional portfolio through diverse projects, aiming to display my capabilities to potential employers. 
+I have recently completed Le Wagon's Data Analysis Bootcamp, expanding my toolkit for extracting insights and driving decisions through data. I am now in the process of enriching my professional projects portfolio, aiming to display my capabilities to potential employers. 
 
-### 📚 Currently Learning:
+### 📚 Learning:
 - **An Introduction to Statistical Learning with Python**
 - **Prompt Engineering for Generative AI**
 
-### 🎯 My Goals:
+### 🎯 Goals:
 - **Simplify data comprehension** for all audiences
 - **Advance my career** towards becoming a Data Scientist or Data Engineer
 
 ### 🎲 Fun Fact:
 - I once served as a Queen's Guardsman. 💂‍♂️
-
-In my free time I enjoy hiking, lifting heavy things, reading, solving puzzles, and spending time with my dog.
 
 Feel free to browse my projects, or get in touch.
 
