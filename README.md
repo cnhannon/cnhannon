@@ -19,14 +19,18 @@ Feel free to explore my work here as I continue to learn, build, and share!<br><
 
 <h2 align="left">🌐 Social:</h2>
 
-<div align="center">
+<div align="left">
   <a href="https://x.com/cnhannon" target="_blank">
     <img src="https://img.shields.io/badge/cnhannon-black?style=for-the-badge&logo=x&logoColor=white" alt="X">
   </a>
   <a href="mailto:chris.n.hannon@gmail.com">
     <img src="https://img.shields.io/badge/chris.n.hannon%40gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me">
   </a>
+    <a href="mailto:chris.n.hannon@gmail.com">
+    <img src="https://img.shields.io/badge/Chris%20Hannon-%234A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack">
+  </a>
 </div>
+
 
 <h2 align="left">💻 Tech Stack:</h2>
 
