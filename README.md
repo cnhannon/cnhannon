@@ -29,6 +29,8 @@ Feel free to explore my work here as I continue to learn, build, and share!<br><
 ![NumPy](https://img.shields.io/badge/NUMPY-%23130654?style=for-the-badge&logo=numpy&logoColor=%234DABCF&color=%23222832)
 ![SciPy](https://img.shields.io/badge/SCIPY-%23013243?style=for-the-badge&logo=scipy&logoColor=%23003786&labelColor=white)
 ![Plotly](https://img.shields.io/badge/PLOTLY-%23242A44?style=for-the-badge&logo=plotly&labelColor=%23242A44)
+![SymPy](https://img.shields.io/badge/SYMPY-%233B5526?style=for-the-badge&logo=sympy&logoColor=%2381B953)
+
 
 
 
