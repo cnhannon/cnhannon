@@ -8,18 +8,29 @@
 
 ###
 
-<h2 align="left">✨ About Me:</h2>
+## ✨ About Me:
 
-I'm currently focused on enhancing my professional portfolio with various projects to showcase my skills to potential employers. Alongside this, I'm deepening my knowledge in data science through the Introduction to Statistical Analysis with Python course by Stanford University Online.
-<br><br>
-I'm reading "A Hitchhiker's Guide to the Galaxy", which keeps my imagination as well as my analytical skills sharp.
-<br><br>
-Feel free to explore my work here as I continue to learn, build, and share!<br><br>
+I'm currently dedicated to enriching my professional portfolio through diverse projects, aiming to display my capabilities to potential employers. 
+
+### 📚 Currently Learning:
+- **Introduction to Statistical Learning with Python**
+- **Prompt Engineering**
+
+### 🎯 My Goals:
+- **Simplify data comprehension** for all audiences
+- **Advance my career** towards becoming a Data Scientist or Data Engineer
+
+### 🎲 Fun Fact:
+- I once served as a Queen's Guardsman. 💂‍♂️
+
+Currently, I'm diving into **"A Hitchhiker's Guide to the Galaxy"**, which keeps my imagination and analytical skills sharp. 
+
+Feel free to delve into my projects here as I continue on my journey of learning, building, and sharing!
 
 
 <h2 align="left">🌐 Social:</h2>
 
-<div align="left">
+<div align="center">
   <a href="https://x.com/cnhannon" target="_blank">
     <img src="https://img.shields.io/badge/cnhannon-black?style=for-the-badge&logo=x&logoColor=white" alt="X">
   </a>
@@ -36,7 +47,7 @@ Feel free to explore my work here as I continue to learn, build, and share!<br><
 
 <h2 align="left">💻 Tech Stack:</h2>
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/LINUX-%23F5BB3B?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/UBUNTU-%23185ABC?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=%23E75420&color=%23262626" alt="Ubuntu">
   <img src="https://img.shields.io/badge/GIT-%23433A33?style=for-the-badge&logo=git" alt="Git">
@@ -68,28 +79,3 @@ Feel free to explore my work here as I continue to learn, build, and share!<br><
 [![](https://visitcount.itsvg.in/api?id=cnhannon&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
-
-###
-
-<p align="left">
-  <h3>📚 I'm currently learning:</h3>
-  <ul>
-    <li>Introduction to Statistical Learning with Python</li>
-    <li>Prompt Engineering</li>
-  </ul>
-  <br>
-  <h3>🎯 Goals:</h3>
-  <ul>
-    <li>Make data easy to understand</li>
-    <li>Progress to Data Scientist, or Data Engineer</li>
-  </ul>
-  <br>
-  <h3>🎲 Fun fact:</h3>
-  <ul>
-    <li>Once upon a time, I was a Queen's Guardsman. 💂‍♂️</li>
-  </ul>
-</p>
-
-<h2 align="left">💻 Tech Stack:</h2>
-
-###
