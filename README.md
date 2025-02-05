@@ -33,14 +33,11 @@ Feel free to explore my work here as I continue to learn, build, and share!<br><
 ![Scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-%23F5BB3B?style=for-the-badge&logo=scikitlearn&labelColor=%23187399&color=%2314181E)
 ![Plotly](https://img.shields.io/badge/PLOTLY-%23242A44?style=for-the-badge&logo=plotly&labelColor=%23242A44)
 ![SymPy](https://img.shields.io/badge/SYMPY-%233B5526?style=for-the-badge&logo=sympy&logoColor=%2381B953)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
 ![Google Sheets](https://img.shields.io/badge/GOOGLE%20SHEETS-white?style=for-the-badge&logo=googlesheets&logoColor=%2339A75A)
 ![Google BigQuery](https://img.shields.io/badge/GOOGLE%20BIGQUERY-%23185ABC?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
-
-
-
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cnhannon&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
