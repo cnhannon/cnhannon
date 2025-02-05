@@ -32,7 +32,13 @@ Feel free to explore my work here as I continue to learn, build, and share!<br><
 
 ###
 
-<p align="left">📚 I'm currently learning:<br>- Introduction to Statistical Learning with Python by Stanford University Online<br>- Prompt Engineering<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">📚 I'm currently learning:<br>
+  - Introduction to Statistical Learning with Python by Stanford University Online<br>
+  - Prompt Engineering<br>
+🎯 Goals:<br>
+  - Make data easy to understand<br>
+  - Progress to Data Scientist, or Data Engineer<br>
+🎲 Fun fact: Once upon a time, I was a Queen's Guardsman. 💂‍♂️</p>
 
 ###
 
