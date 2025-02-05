@@ -16,7 +16,7 @@ I'm reading "A Hitchhiker's Guide to the Galaxy", which keeps my imagination as 
 Feel free to explore my work here as I continue to learn, build, and share!<br><br>
 
 
-<h2 align-"center">🌐 Social</h2>
+<h2 align="center">🌐 Social</h2>
 
 <a href="https://x.com/cnhannon" target="_blank">
   <img src="https://img.shields.io/badge/cnhannon-black?style=for-the-badge&logo=x&logoColor=white" alt="X">
@@ -26,7 +26,7 @@ Feel free to explore my work here as I continue to learn, build, and share!<br><
 </a>
 
 
-<h2 align-"center">💻 Tech Stack</h2>
+<h2 align="center">💻 Tech Stack</h2>
 
 ![Linux](https://img.shields.io/badge/LINUX-%23F5BB3B?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/UBUNTU-%23185ABC?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=%23E75420&color=%23262626)
@@ -47,7 +47,7 @@ Feel free to explore my work here as I continue to learn, build, and share!<br><
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 
-<h2 align-"center">📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cnhannon&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
