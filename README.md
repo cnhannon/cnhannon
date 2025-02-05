@@ -17,8 +17,7 @@ Feel free to explore my work here as I continue to learn, build, and share!<br><
 
 
 # 🌐 Social:
-![X](https://img.shields.io/badge/cnhannon-white?style=social&logo=x&link=https%3A%2F%2Fx.com%2Fcnhannon)
-
+[![X](https://img.shields.io/badge/cnhannon-black?style=flat&logo=x&logoColor=white&labelColor=black&color=black)](URL){:target="_blank"}
 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/cnhannon) [![chris.n.hannon@gmail.com](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chris.n.hannon@gmail.com) 
 
