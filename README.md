@@ -18,7 +18,7 @@ I have recently completed Le Wagon's Data Analysis Bootcamp, expanding my toolki
 ### 🎲 Fun Fact:
 - I once served as a Queen's Guardsman. 💂‍♂️
 
-Feel free to browse my projects, or get in touch.
+Feel free to browse my projects, or contact me via the links in my profile.
 
 
 <h2 align="left">💻 Tech Stack:</h2>
@@ -37,10 +37,10 @@ Feel free to browse my projects, or get in touch.
   <img src="https://img.shields.io/badge/SCIKIT--LEARN-%23F5BB3B?style=for-the-badge&logo=scikitlearn&labelColor=%23187399&color=%2314181E" alt="Scikit-learn">
   <img src="https://img.shields.io/badge/PLOTLY-%23242A44?style=for-the-badge&logo=plotly&labelColor=%23242A44" alt="Plotly">
   <img src="https://img.shields.io/badge/SYMPY-%233B5526?style=for-the-badge&logo=sympy&logoColor=%2381B953" alt="SymPy">
-  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
+  <img src="https://img.shields.io/badge/GOOGLE%20CLOUD-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
   <img src="https://img.shields.io/badge/GOOGLE%20SHEETS-white?style=for-the-badge&logo=googlesheets&logoColor=%2339A75A" alt="Google Sheets">
   <img src="https://img.shields.io/badge/GOOGLE%20BIGQUERY-%23185ABC?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="Google BigQuery">
-  <img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt="Raspberry Pi">
+  <img src="https://img.shields.io/badge/-RASPBERRY%20PI-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt="Raspberry Pi">
 </div>
 
 
