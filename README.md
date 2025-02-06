@@ -2,31 +2,27 @@
 
 ![Hello, world!](github-header-image.png)
 
+## ✨ About Me
 
-## ✨ About Me:
+I have recently completed Le Wagon's Data Analysis Bootcamp, expanding my toolkit for extracting insights and driving decisions through data. I am now in the process of enriching my professional projects portfolio, aiming to display my capabilities to potential employers.
 
-I have recently completed Le Wagon's Data Analysis Bootcamp, expanding my toolkit for extracting insights and driving decisions through data. I am now in the process of enriching my professional projects portfolio, aiming to display my capabilities to potential employers. 
-
-## 📚 Learning:
+## 📚 Learning
 
 - **An Introduction to Statistical Learning with Python**
 - **Prompt Engineering for Generative AI**
 
-
-## 🎯 Goals:
+## 🎯 Goals
 
 - **Simplify data comprehension** for all audiences
 - **Advance my career** towards becoming a Data Scientist or Data Engineer
 
-
-## 🎲 Fun Fact:
+## 🎲 Fun Fact
 
 - I served as a Queen's Guardsman. 💂‍♂️
 
 Feel free to browse my projects, or contact me via the links in my profile.
 
-
-## 💻 Tech Stack:
+## 💻 Tech Stack
 
 ![Linux](https://img.shields.io/badge/LINUX-%23F5BB3B?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/UBUNTU-%23185ABC?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=%23E75420&color=%23262626)
@@ -46,10 +42,8 @@ Feel free to browse my projects, or contact me via the links in my profile.
 ![Google BigQuery](https://img.shields.io/badge/GOOGLE%20BIGQUERY-%23185ABC?style=for-the-badge&logo=googlebigquery&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RASPBERRY%20PI-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
-
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cnhannon&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-[![](https://visitcount.itsvg.in/api?id=cnhannon&icon=0&color=0)](https://visitcount.itsvg.in)
+![Visitor Count](https://visitcount.itsvg.in/api?id=cnhannon&icon=0&color=0)
