@@ -4,7 +4,7 @@
 
 ## ✨ About Me
 
-I have recently completed Le Wagon's Data Analysis Bootcamp, expanding my toolkit for extracting insights and driving decisions through data. I am now in the process of enriching my professional projects portfolio, aiming to display my capabilities to potential employers.
+I am Chris. A Data Analyst, from the UK. I recently completed Le Wagon's Data Analysis Bootcamp, expanding my toolkit for extracting insights and driving decisions through data. I am now in the process of enriching my professional portfolio, aiming to display my capabilities to potential employers.
 
 ## 📚 Learning
 
