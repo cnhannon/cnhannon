@@ -5,7 +5,7 @@
 
 ## ✨ About Me:
 
-I have recently completed Le Wagon's Data Analysis Bootcamp, expanding my toolkit for extracting insights and driving decisions through data. I am now in the process of enriching my professional projects portfolio, aiming to display my capabilities to potential employers. 
+I'm Chris, and I'm looking for a career in the tech industry. I have recently completed Le Wagon's Data Analysis Bootcamp, expanding my toolkit for extracting insights and driving decisions through data. I am now in the process of enriching my professional projects portfolio, aiming to display my capabilities to potential employers. 
 
 ### 📚 Learning:
 - **An Introduction to Statistical Learning with Python**
